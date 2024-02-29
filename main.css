@@ -1,16 +1,15 @@
 @font-face {
-    src: url("./fonts/FormaDJRVariableNormal[opsz\,slnt\,wght]-Edu.woff2") format("woff2"),
-         url('./fonts/FormaDJRVariableNormal[opsz\,slnt\,wght]-Edu.woff') format("woff"),
-        url('./fonts/FormaDJRVariableNormal[opsz\,slnt\,wght]-Edu.ttf') format('truetype');
+    src: url("/fonts/Linefont-VariableFont_wdth\,wght.woff2") format("woff2"),
+         url('./fonts/Jost-VF.woff2') format("woff");
 
-    font-family: 'Forma';
+    font-family: 'Linefont';
     font-style: normal;
     font-weight: normal;
     }
     
     body{
     background-color: lightsteelblue;
-    font-family: 'Forma';
+    font-family: 'Linefont';
 }
 /* how the page wrapper will appear on mobile */
 .page-wrapper{
