@@ -56,9 +56,10 @@ h3{
 
 @keyframes weightChange {
     0%, 100%{
-        font-variation-settings: "opsz" 16, "wght" 200, "slnt" 0;
-    }
-    50%{font-variation-settings: "opsz" 16, "wght" 900, "slnt" -13;
+            font-variation-settings: "wdth" 50, "wght" 100;
+        }   
+    50%{
+        font-variation-settings: "wdth" 200, "wght" 500;
     }
     
 }
