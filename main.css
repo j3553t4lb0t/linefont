@@ -2,14 +2,14 @@
     src: url("/fonts/Linefont-VariableFont_wdth\,wght.woff2") format("woff2"),
          url('./fonts/Jost-VF.woff2') format("woff");
 
-    font-family: 'Linefont';
+    font-family: 'Jost';
     font-style: normal;
     font-weight: normal;
     }
     
     body{
     background-color: lightsteelblue;
-    font-family: 'Linefont';
+    font-family: 'Jost';
 }
 /* how the page wrapper will appear on mobile */
 .page-wrapper{
