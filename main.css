@@ -1,7 +1,12 @@
+{
+    border: 3px;
+    color: blue;
+    border-style: dashed;
+}
 @font-face {
-    src:url('./fonts/Jost-VF.woff2') format("woff"),
-        url ('/fonts/Linefont-VariableFont_wdth\,wght.woff2') format("woff2");
-    font-family: 'Jost-VF';
+    src:         url ('/fonts/Linefont-VariableFont_wdth\,wght.woff2') format("woff2"),
+            url('./fonts/Jost-VF.woff2') format("woff");
+    font-family: 'Linefont';
     font-style: normal;
     font-weight: normal;
     }
