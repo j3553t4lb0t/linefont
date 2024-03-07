@@ -4,10 +4,9 @@
     border-style: dashed;
 }
 @font-face {
-    src: url('./fonts/Jost-VF.woff2),
-        url('./fonts/Linefont-VariableFont_wdth\,wght.woff2')
-}
-{
+    src: url('.fonts/Jost-VF'), format("woff"),
+        url('.fonts/Linefont'), format("woff");
+        
     font-family: 'Linefont';
     font-style: normal;
     font-weight: normal;
